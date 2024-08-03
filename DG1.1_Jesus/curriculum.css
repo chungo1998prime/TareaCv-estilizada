@@ -1,0 +1,33 @@
+
+.fotocircular {
+    border-radius: 50%;
+    border: 2px solid #007bff; 
+}
+
+
+h1, h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+
+.section-title img {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+
+.list-group-item {
+    background-color: #f8f9fa; 
+    border: 1px solid #dee2e6;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+
+
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
